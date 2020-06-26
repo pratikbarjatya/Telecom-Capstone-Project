@@ -20,7 +20,7 @@ Database was given for the leading Telecom company Insaid Telecom.
 
 **Objective** was to understand user behavior and plan for attractive Offers.
 
-**Background:**
+**Background**
 - It's always wonderful to see services customized to your needs.
 - Businesses try to understand your behavior and adjust their offerings so as to ensure you feel attached to their services.
 - Insaid Telecom, one of the leading telecom players, understands that customizing offering is very important for its business to stay     competitive.
@@ -29,6 +29,13 @@ Currently, Insaid Telecom is seeking to leverage behavioral data from more than 
 
 - In this consulting assignment, it was expected to build a dashboard to understand user's demographic characteristics based on   their mobile usage, geolocation, and mobile device properties.
 - Doing so will help millions of developers and brand advertisers around the world pursue data-driven marketing efforts which are         relevant to their users and catered to their preferences.
+
+**Key Propositions**
+- []!(https://github.com/pratikbarjatya/Telecom-Capstone-Project/blob/master/images/capstone_analysis.png)
+- []!(https://github.com/pratikbarjatya/Telecom-Capstone-Project/blob/master/images/proposed_solutions_1.png)
+- []!(https://github.com/pratikbarjatya/Telecom-Capstone-Project/blob/master/images/proposed_solutions_2.png)
+- []!(https://github.com/pratikbarjatya/Telecom-Capstone-Project/blob/master/images/proposed_solutions_3.png)
+
 
 ### Project Material:
 
