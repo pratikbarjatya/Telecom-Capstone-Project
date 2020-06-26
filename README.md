@@ -31,10 +31,10 @@ Currently, Insaid Telecom is seeking to leverage behavioral data from more than 
 - Doing so will help millions of developers and brand advertisers around the world pursue data-driven marketing efforts which are         relevant to their users and catered to their preferences.
 
 **Key Propositions**
-- []!(https://github.com/pratikbarjatya/Telecom-Capstone-Project/blob/master/images/capstone_analysis.png)
-- []!(https://github.com/pratikbarjatya/Telecom-Capstone-Project/blob/master/images/proposed_solutions_1.png)
-- []!(https://github.com/pratikbarjatya/Telecom-Capstone-Project/blob/master/images/proposed_solutions_2.png)
-- []!(https://github.com/pratikbarjatya/Telecom-Capstone-Project/blob/master/images/proposed_solutions_3.png)
+- ![](https://github.com/pratikbarjatya/Telecom-Capstone-Project/blob/master/images/capstone_analysis.png)
+- ![](https://github.com/pratikbarjatya/Telecom-Capstone-Project/blob/master/images/proposed_solutions_1.png)
+- ![](https://github.com/pratikbarjatya/Telecom-Capstone-Project/blob/master/images/proposed_solutions_2.png)
+- ![](https://github.com/pratikbarjatya/Telecom-Capstone-Project/blob/master/images/proposed_solutions_3.png)
 
 
 ### Project Material:
